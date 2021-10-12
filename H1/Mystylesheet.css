@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Roboto:wght@500&display=swap');
+body {
+    background-color: greenyellow;
+    font-family: 'Architects Daughter', cursive;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: darkgreen;
+}
+p {
+    color:darkgreen;
+}
+div
+{
+    border:2px dashed darkgreen;
+}
